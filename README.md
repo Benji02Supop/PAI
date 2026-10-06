@@ -65,3 +65,4 @@ cd docs && uv run make html
 uv sync --group docs
 cd docs && make livehtml
 test PR
+nouvelle ligne pour la PR
